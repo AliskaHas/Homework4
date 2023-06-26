@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\Homework4\Task25\bin\Debug\net6.0\Task25.exe
+C:\Users\nhasa\Desktop\Homework4\Task25\bin\Debug\net6.0\Task25.deps.json
+C:\Users\nhasa\Desktop\Homework4\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+C:\Users\nhasa\Desktop\Homework4\Task25\bin\Debug\net6.0\Task25.dll
+C:\Users\nhasa\Desktop\Homework4\Task25\bin\Debug\net6.0\ref\Task25.dll
+C:\Users\nhasa\Desktop\Homework4\Task25\bin\Debug\net6.0\Task25.pdb
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.dll
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\ref\Task25.dll
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.pdb
+C:\Users\nhasa\Desktop\Homework4\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
