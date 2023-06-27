@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\Homework4\Task29\bin\Debug\net6.0\Task29.exe
+C:\Users\nhasa\Desktop\Homework4\Task29\bin\Debug\net6.0\Task29.deps.json
+C:\Users\nhasa\Desktop\Homework4\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+C:\Users\nhasa\Desktop\Homework4\Task29\bin\Debug\net6.0\Task29.dll
+C:\Users\nhasa\Desktop\Homework4\Task29\bin\Debug\net6.0\ref\Task29.dll
+C:\Users\nhasa\Desktop\Homework4\Task29\bin\Debug\net6.0\Task29.pdb
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.dll
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\ref\Task29.dll
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.pdb
+C:\Users\nhasa\Desktop\Homework4\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
