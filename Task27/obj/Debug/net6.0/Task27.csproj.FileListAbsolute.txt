@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\Homework4\Task27\bin\Debug\net6.0\Task27.exe
+C:\Users\nhasa\Desktop\Homework4\Task27\bin\Debug\net6.0\Task27.deps.json
+C:\Users\nhasa\Desktop\Homework4\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+C:\Users\nhasa\Desktop\Homework4\Task27\bin\Debug\net6.0\Task27.dll
+C:\Users\nhasa\Desktop\Homework4\Task27\bin\Debug\net6.0\ref\Task27.dll
+C:\Users\nhasa\Desktop\Homework4\Task27\bin\Debug\net6.0\Task27.pdb
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.dll
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\ref\Task27.dll
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.pdb
+C:\Users\nhasa\Desktop\Homework4\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
